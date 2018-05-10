@@ -32,6 +32,16 @@ Socioboard desktop apps must be used with utmost care to make sure you remain wi
 
 **twtBoardPro (http://twtboardpro.com/)**  - twtBoardPro is an twitter marketing platform. It helps you manage multiple twitter accounts and automate your tweets, re-tweets, favorites etc. You can do a whole lot of stuff on twitter and get ultra productive on twitter by using this software. 
 
+A few tools that I am currently using to leverage my social media marketing efforts:
+
+1.[Paytm Smm Panel](https://smmraja.in/)   
+
+2.[Instant Smm Panel](https://magicsmm.com/)
+
+3.[Smm Panel](http://yoyomedia.in/)
+
+4.[Smm Reseller Panel](https://justsmo.com/)
+
 **Socioboard Mobile Apps for Social Media Marketers** -
 =======================================================
 
@@ -265,9 +275,4 @@ Home page
 
 ![](http://i.imgur.com/450LSFv.png)
 
-A few tools that I am currently using to leverage my social media marketing efforts:
 
-1.[Paytm Smm Panel](https://smmraja.in/)   
-2.[Instant Smm Panel](https://magicsmm.com/)
-3.[Smm Panel](http://yoyomedia.in/)
-4.[Smm Reseller Panel](https://justsmo.com/)
