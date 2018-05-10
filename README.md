@@ -264,3 +264,10 @@ Home page
 ![](http://i.imgur.com/qZxc8UN.png)
 
 ![](http://i.imgur.com/450LSFv.png)
+
+A few tools that I am currently using to leverage my social media marketing efforts:
+
+1.[Paytm Smm Panel](https://smmraja.in/)   
+2.[Instant Smm Panel](https://magicsmm.com/)
+3.[Smm Panel](http://yoyomedia.in/)
+4.[Smm Reseller Panel](https://justsmo.com/)
